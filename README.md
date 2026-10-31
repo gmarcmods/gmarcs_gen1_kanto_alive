@@ -1,5 +1,6 @@
 # Gmarc's Gen 1 Kanto Alive
 
+A [gen1recomp](https://github.com/bryanthaboi/gen1recomp) mod.
 Three mods in one install for Red, Blue and Yellow, so the world outside
 battles feels inhabited.
 

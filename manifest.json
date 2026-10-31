@@ -22,5 +22,6 @@
   "description": "Kanto feels alive on Red, Blue and Yellow: wild Pok\u00e9mon on the map, birds overhead, and a party Pok\u00e9mon that can fly you anywhere. Each part has its own setting.",
   "games": [
     "gen1"
-  ]
+  ],
+  "github": "gmarcmods/gmarcs_gen1_kanto_alive"
 }
