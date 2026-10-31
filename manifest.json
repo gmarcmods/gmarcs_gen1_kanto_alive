@@ -1,7 +1,7 @@
 {
   "id": "gmarcs_gen1_kanto_alive",
   "name": "Gmarc's Gen 1 Kanto Alive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
